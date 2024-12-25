@@ -9,7 +9,6 @@ public class PrimitiveDataTypes {
  */
 
 
-
 /**
  *
  Data  & its Default Value (for fields)
